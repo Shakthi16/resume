@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.section-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+.section-content {
+    margin-bottom: 2rem;
+}
+.profile-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.bg-custom {
+    background-color: #f8f9fa;
+}
+.sidebar-section {
+    margin-bottom: 1.5rem;
+}
+.sidebar {
+    width: 280px;
+}
